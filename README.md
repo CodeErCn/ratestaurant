@@ -1,1 +1,1 @@
-The BEST restaurant rating website
+The BEST restaurant rating website build from a foodie for foodies.
